@@ -2,9 +2,9 @@
 ### 🚀 About Me
 
 Hi there 👋, I'm Jones  
-Creative Frontend Engineer ⚙️  Designing beautiful user interfaces with React.
+Creative Frontend Engineer ⚙️  Designing beautiful user interfaces with React. <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
 
-👯 &nbsp;I'm open to opportunities to contribute to meaningful products, collaborate with developers, and work with teams that value thoughtful **engineering and continuous learning .** <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
+👯 &nbsp;I'm open to opportunities to contribute to meaningful products, collaborate with developers, and work with teams that value thoughtful **engineering and continuous learning .** 
 
 
 ### 🧰 Tool Box
