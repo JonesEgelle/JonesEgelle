@@ -1,7 +1,6 @@
 
-### 🚀 About Me
 
-Hi there 👋, I'm **`Jones`**   
+### Hi there 👋, I'm **`Jones`**   
 Creative Frontend Engineer ⚙️ crafting digital experiences with precision. <img src="https://raw.githubusercontent.com/iammateus/iammateus/assets/dino.gif" width="55">
 
 👯 &nbsp;I'm open to opportunities to contribute to meaningful products, collaborate with developers, and work with teams that value thoughtful **engineering and continuous learning .** 
